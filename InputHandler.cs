@@ -33,7 +33,7 @@ public class InputHandler : MonoBehaviour
         states.FixedTick(Time.deltaTime);
         camManager.Tick(delta);
     }
-
+//sound 
     private void Update()
     {
         //delta time
